@@ -1,6 +1,6 @@
 {
-  "name": "EduSpark.Client",
-  "short_name": "EduSpark.Client",
+  "name": "EduSpark AI",
+  "short_name": "EduSpark",
   "id": "./",
   "start_url": "./",
   "display": "standalone",

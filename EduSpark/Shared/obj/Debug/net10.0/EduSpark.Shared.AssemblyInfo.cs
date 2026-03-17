@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduSpark.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce93db3f706f38b508adae0bd5f05f1dcd0820c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e13dfacb263e4084300bf62e14afb0e63d4921f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduSpark.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduSpark.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
